@@ -1,0 +1,1 @@
+* Attempt to fix Selenium deadlock when user manually intervenes on JavaScript alert boxes
