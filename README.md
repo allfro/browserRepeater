@@ -1,7 +1,7 @@
 About
 -----
 
-This plugin renders responses returned in the repeater in a real browser (specifically Firefox). The plugin uses
+This BurpSuite plugin renders responses returned in the Repeater tool in a real browser (specifically Firefox). The plugin uses
 Selenium, a popular browser automation framework, to control the web browser when the Repeater tool is used in Burp
 Suite. Think of this extension as the automatic 'Show Response In Browser' (SRIB) tool. Instead of using the SRIB
 feature repeatedly in Burp Suite, this extension automates the process and makes pen-testing web apps that use mostly
